@@ -14,6 +14,8 @@ Ruby: I love hello world
 Rust: And all its sights and sounds!
 C: Boom-de-ah-da!
 C++: Boom-de-ah-da!
+PHP: I love to try stuff
+
 ```
 
 ## Dependencies
@@ -29,3 +31,4 @@ you can compile and run programs from a lot of different languages.
 - ruby 2.6.6p146
 - rustc 1.43.0
 - gcc (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+- PHP 7.4.6

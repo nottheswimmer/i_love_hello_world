@@ -2,6 +2,6 @@
 
 int main() {
     std::cout << "C++: Boom-de-ah-da!" << std::endl;
-//    std::system("echo '... :D'");
+    std::system("php hello_world.php");
     return 0;
 }
