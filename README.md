@@ -12,6 +12,8 @@ Java: I love big bridges
 JavaScript: I love when great whites fly
 Ruby: I love hello world
 Rust: And all its sights and sounds!
+C: Boom-de-ah-da!
+C++: Boom-de-ah-da!
 ```
 
 ## Dependencies
@@ -26,3 +28,4 @@ you can compile and run programs from a lot of different languages.
 - Node.js v12.13.1
 - ruby 2.6.6p146
 - rustc 1.43.0
+- gcc (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
