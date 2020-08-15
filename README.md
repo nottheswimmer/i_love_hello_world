@@ -1,0 +1,28 @@
+# I love Hello World
+
+Work in-progress. Chains subprocessing commands in many different programming languages
+to sing you a song about how programming is awesome!
+
+## Output
+```bash
+S:\PyCharmProjects\i_love_hello_world>python hello_world.py
+Python: I love the mountains
+Go: I love the clear blue skies
+Java: I love big bridges
+JavaScript: I love when great whites fly
+Ruby: I love hello world
+Rust: And all its sights and sounds!
+```
+
+## Dependencies
+These aren't necessarily the versions of things required, just the ones I used.
+
+Getting this to run might even be practical if your goal is a developer setup where
+you can compile and run programs from a lot of different languages.
+
+- Python 3.8
+- Go 1.14.2
+- Java SDK 1.8.0_241
+- Node.js v12.13.1
+- ruby 2.6.6p146
+- rustc 1.43.0

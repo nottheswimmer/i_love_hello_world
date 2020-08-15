@@ -1,0 +1,12 @@
+# IDE
+.idea
+
+# Java
+*.class
+
+# Misc.
+*.exe
+
+# Python
+venv
+*.pyc
