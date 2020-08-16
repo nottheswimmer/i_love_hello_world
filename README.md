@@ -15,6 +15,7 @@ Rust: And all its sights and sounds!
 C: Boom-de-ah-da!
 C++: Boom-de-ah-da!
 PHP: I love to try stuff
+Dart: I love real darty things
 
 ```
 
@@ -32,3 +33,4 @@ you can compile and run programs from a lot of different languages.
 - rustc 1.43.0
 - gcc (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
 - PHP 7.4.6
+- Dart VM version: 2.8.3 (stable) (Tue May 26 18:39:38 2020 +0200) on "windows_x64"
