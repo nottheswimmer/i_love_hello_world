@@ -19,3 +19,8 @@ hello_world_cpp*
 
 # C#
 hello_world_cs*
+
+# Haskell
+hello_world_hs
+hello_world.o
+hello_world.hi

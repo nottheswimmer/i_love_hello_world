@@ -1,2 +1,3 @@
 println("Julia: I love Egyptian kings")
-# run(`python .subprocess_test_file.py`)
+read(`ghc -o hello_world_hs hello_world.hs`)
+run(`hello_world_hs`)

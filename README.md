@@ -18,6 +18,8 @@ PHP: I love to try stuff
 Dart: I love real darty things
 C#: I love tornadoes
 Julia: I love Egyptian kings
+Haskell: I love hello world
+
 ```
 
 ## Dependencies
@@ -37,3 +39,4 @@ you can compile and run programs from a lot of different languages.
 - Dart VM version: 2.8.3 (stable) (Tue May 26 18:39:38 2020 +0200) on "windows_x64"
 - Microsoft (R) Visual C# Compiler version 4.8.3752.0
 - julia version 1.5.0
+- The Glorious Glasgow Haskell Compilation System, version 8.10.2
