@@ -19,6 +19,7 @@ Dart: I love real darty things
 C#: I love tornadoes
 Julia: I love Egyptian kings
 Haskell: I love hello world
+Perl: It's such a brilliant thing
 Haskell: Boom-de-ah-da!
 Julia: Boom-de-ah-da!
 C#: Boom-de-ah-da!
@@ -53,3 +54,4 @@ you can compile and run programs from a lot of different languages.
 - Microsoft (R) Visual C# Compiler version 4.8.3752.0
 - julia version 1.5.0
 - The Glorious Glasgow Haskell Compilation System, version 8.10.2
+- perl 5, version 28, subversion 1 (v5.28.1) built for MSWin32-x64-multi-thread
