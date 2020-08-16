@@ -10,4 +10,5 @@ fn main() {
         .stdout(Stdio::inherit())
         .output()
         .expect("failed to execute process");
+    println!("Rust: Boom-de-ah-da!");
 }

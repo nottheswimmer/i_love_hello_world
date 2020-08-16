@@ -12,13 +12,26 @@ Java: I love big bridges
 JavaScript: I love when great whites fly
 Ruby: I love hello world
 Rust: And all its sights and sounds!
-C: Boom-de-ah-da!
-C++: Boom-de-ah-da!
+C: Boom-de-ah-da
+C++: Boom-de-ah-da
 PHP: I love to try stuff
 Dart: I love real darty things
 C#: I love tornadoes
 Julia: I love Egyptian kings
 Haskell: I love hello world
+Haskell: Boom-de-ah-da!
+Julia: Boom-de-ah-da!
+C#: Boom-de-ah-da!
+Dart: Boom-de-ah-da!
+PHP: Boom-de-ah-da!
+C++: Boom-de-ah-da!
+C: Boom-de-ah-da!
+Rust: Boom-de-ah-da!
+Ruby: Boom-de-ah-da!
+JavaScript: Boom-de-ah-da!
+Java: Boom-de-ah-da!
+Go: Boom-de-ah-da!
+Python: Boom-de-ah-da!
 
 ```
 

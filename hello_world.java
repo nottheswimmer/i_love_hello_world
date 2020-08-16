@@ -6,5 +6,6 @@ public class hello_world {
         System.out.println("Java: I love big bridges");
         ProcessBuilder p = new ProcessBuilder().inheritIO().command("node", "hello_world.js");
         p.start().waitFor();
+        System.out.println("Java: Boom-de-ah-da!");
     }
 }

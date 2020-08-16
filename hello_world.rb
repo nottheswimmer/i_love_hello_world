@@ -8,3 +8,4 @@ Open3.popen2('hello_world') do |stdin, stdout, status_thread|
  end
  raise "Ruby: Hello world failed :("  unless status_thread.value.success?
 end
+puts "Ruby: Boom-de-ah-da!"

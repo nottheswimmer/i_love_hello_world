@@ -19,6 +19,7 @@ namespace HelloWorld
             {
                 if (process != null) process.WaitForExit();
             }
+            Console.WriteLine("C#: Boom-de-ah-da!");
         }
     }
 }
