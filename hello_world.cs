@@ -1,5 +1,5 @@
 ﻿using System;
-// using System.Diagnostics;
+using System.Diagnostics;
 
 namespace HelloWorld
 {
@@ -7,18 +7,18 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("C#: I love to go fast");
-            // var processInfo = new ProcessStartInfo
-            // {
-            //     UseShellExecute = false,
-            //     FileName = "python",
-            //     Arguments = ".subprocess_test_file.py"
-            // };
-            //
-            // using (var process = Process.Start(processInfo))
-            // {
-            //     if (process != null) process.WaitForExit();
-            // }
+            Console.WriteLine("C#: I love tornadoes");
+            var processInfo = new ProcessStartInfo
+            {
+                UseShellExecute = false,
+                FileName = "julia",
+                Arguments = "hello_world.jl"
+            };
+
+            using (var process = Process.Start(processInfo))
+            {
+                if (process != null) process.WaitForExit();
+            }
         }
     }
 }

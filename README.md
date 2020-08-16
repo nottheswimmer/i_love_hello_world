@@ -16,8 +16,8 @@ C: Boom-de-ah-da!
 C++: Boom-de-ah-da!
 PHP: I love to try stuff
 Dart: I love real darty things
-C#: I love to go fast
-
+C#: I love tornadoes
+Julia: I love Egyptian kings
 ```
 
 ## Dependencies
@@ -36,3 +36,4 @@ you can compile and run programs from a lot of different languages.
 - PHP 7.4.6
 - Dart VM version: 2.8.3 (stable) (Tue May 26 18:39:38 2020 +0200) on "windows_x64"
 - Microsoft (R) Visual C# Compiler version 4.8.3752.0
+- julia version 1.5.0
