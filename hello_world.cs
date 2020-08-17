@@ -7,7 +7,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("C#: I love tornadoes");
+            Console.WriteLine("C#: I love null pointers");
             var processInfo = new ProcessStartInfo
             {
                 UseShellExecute = false,

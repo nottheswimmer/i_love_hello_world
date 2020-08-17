@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-    fmt.Println("Go: I love the clear blue skies")
+    fmt.Println("Go: I love the clear syntax")
     cmd1 := exec.Command("javac", "hello_world.java")
     err := cmd1.Run()
 	if err != nil {

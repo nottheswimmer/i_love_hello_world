@@ -1,7 +1,7 @@
 import 'dart:io';
 
 main() {
-  print('Dart: I love real darty things');
+  print('Dart: I love async programming');
   String fileExtension = '';
   if (Platform.isWindows) {
     fileExtension = '.exe';

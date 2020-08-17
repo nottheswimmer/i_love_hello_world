@@ -6,18 +6,18 @@ to sing you a song about how programming is awesome!
 ## Output
 ```bash
 S:\PyCharmProjects\i_love_hello_world>python hello_world.py
-Python: I love the mountains
-Go: I love the clear blue skies
-Java: I love big bridges
-JavaScript: I love when great whites fly
+Python: I love the objects
+Go: I love the clear syntax
+Java: I love big RAM sticks
+JavaScript: I love XSS hacks
 Ruby: I love hello world
-Rust: And all its sights and sounds!
+Rust: And all its bytes and bits!
 C: Boom-de-ah-da
 C++: Boom-de-ah-da
 PHP: I love to try stuff
-Dart: I love real darty things
-C#: I love tornadoes
-Julia: I love Egyptian kings
+Dart: I love async programming
+C#: I love null pointers
+Julia: I love protection rings
 Haskell: I love hello world
 Perl: It's such a brilliant thing
 Haskell: Boom-de-ah-da!
@@ -33,7 +33,6 @@ JavaScript: Boom-de-ah-da!
 Java: Boom-de-ah-da!
 Go: Boom-de-ah-da!
 Python: Boom-de-ah-da!
-
 ```
 
 ## Dependencies
