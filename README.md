@@ -1,6 +1,6 @@
 # I love Hello World
 
-Work in-progress. Chains subprocessing commands in many different programming languages
+Chains subprocessing commands in many different programming languages
 to sing you a song about how programming is awesome!
 
 ## Output
