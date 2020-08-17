@@ -1,4 +1,4 @@
-# I love Hello World
+# I Love Hello World
 
 Chains subprocessing commands in many different programming languages
 to sing you a song about how programming is awesome!
