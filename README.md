@@ -4,6 +4,8 @@ Chains subprocessing commands in many different programming languages
 to sing you a song about how programming is awesome!
 
 ## Output
+![Screen recording of the program running (output below)](https://raw.githubusercontent.com/nottheswimmer/i_love_hello_world/master/recording.gif)
+
 ```bash
 S:\PyCharmProjects\i_love_hello_world>python hello_world.py
 Python: I love the objects
